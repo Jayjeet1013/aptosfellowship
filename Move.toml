@@ -5,6 +5,8 @@ authors = []
 
 [addresses]
 MyAddr ='d1c1143f10729e7dd276f1db59ed16fb7feb9c900956e31e4e3189675283103f'
+Std = "0x1"
+aptos_std = "0x1"
 
 [dev-addresses]
 
