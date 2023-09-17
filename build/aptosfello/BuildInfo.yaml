@@ -13,8 +13,8 @@ compiled_package_info:
     vm_reserved: "0000000000000000000000000000000000000000000000000000000000000000"
   source_digest: 09AB4B0B8BABD9D231F85932424BDBCCD6D32DE98EC322E44D5C1A59009624FE
   build_flags:
-    dev_mode: false
-    test_mode: false
+    dev_mode: true
+    test_mode: true
     generate_docs: false
     generate_abis: false
     install_dir: ~
